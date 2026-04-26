@@ -18,7 +18,7 @@
 	url = https://github.com/MauAbata/tlibmp
 [submodule "lib/mt-actions"]
 	path = lib/mt-actions
-	url = https://github.com/MausTec/mt-actions
+	url = https://github.com/MartiniGM/mt-actions
 	branch = eom-api-tooling
 [submodule "components/wamr"]
 	path = components/wamr
